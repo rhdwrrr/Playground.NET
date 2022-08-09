@@ -1,0 +1,15 @@
+D:\Codes\Console\Console.1.20220808\bin\Debug\net6.0\Console.1.20220808.exe
+D:\Codes\Console\Console.1.20220808\bin\Debug\net6.0\Console.1.20220808.deps.json
+D:\Codes\Console\Console.1.20220808\bin\Debug\net6.0\Console.1.20220808.runtimeconfig.json
+D:\Codes\Console\Console.1.20220808\bin\Debug\net6.0\Console.1.20220808.dll
+D:\Codes\Console\Console.1.20220808\bin\Debug\net6.0\Console.1.20220808.pdb
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.csproj.AssemblyReference.cache
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.AssemblyInfoInputs.cache
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.AssemblyInfo.cs
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.csproj.CoreCompileInputs.cache
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.dll
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\refint\Console.1.20220808.dll
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.pdb
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\Console.1.20220808.genruntimeconfig.cache
+D:\Codes\Console\Console.1.20220808\obj\Debug\net6.0\ref\Console.1.20220808.dll
